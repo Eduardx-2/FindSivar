@@ -11,4 +11,8 @@ Osint Tool from person El Salvador
   <img width="80%" height="70%" src="https://github.com/Eduardx-2/FindSivar/blob/main/find.png">
 </p>
 
+- **Windows 7 > 11**
+- cd FindSivar > **.\sivar-find.exe**
+- Puede que su Av lo detecte como virus, recomiendo que lo ejecute en una máquina virtual **WINDOWS**.
+
 
